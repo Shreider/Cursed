@@ -15,7 +15,8 @@ module.exports = {
                 {name: 'meme', value: 'meme'},
                 {name: 'funny', value: 'funny'},
                 {name: 'gifs', value: 'gifs'},
-                {name: 'hentai', value: 'hentai'}
+                {name: 'hentai', value: 'hentai'},
+                {name: 'furry', value: 'furry'},
             )),
     async execute(client, interaction) {
         const data = await fetch(`https://meme-api.herokuapp.com/gimme/${interaction.options.getString('subreddit')}`).then(res => res.json());
