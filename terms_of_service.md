@@ -44,6 +44,7 @@ For any questions about these Terms, please contact us via Discord at shreider_4
 This document serves as the Terms of Service for Cursed Discord Bot. By using the Bot, you agree to comply with and be bound by these terms. If you have any questions or concerns, please reach out to us.
 
 ---
+---
 
 # Cursed - Discord Bot Warunki Użytkowania
 
