@@ -16,9 +16,7 @@ As a user of the Bot, you agree to:
 ## 4. Prohibited Activities
 You agree not to engage in any of the following activities:
 - Distributing any content that is harmful, abusive, obscene, defamatory, or otherwise objectionable.
-- Impersonating any person or entity or falsely stating or otherwise misrepresenting your affiliation with a person or entity.
-- Using the Bot to spam, transmit junk mail, or other unsolicited communications.
-- Attempting to gain unauthorized access to any part of the Bot or its related systems or networks.
+- Using the Bot to spam.
 
 ## 5. Privacy and Data Collection
 The Bot may collect and store certain information about users to provide the service. This may include, but is not limited to, user IDs, messages, and other interactions with the Bot. By using the Bot, you consent to the collection and use of this information in accordance with our Privacy Policy.
@@ -39,7 +37,7 @@ In no event shall we be liable for any direct, indirect, incidental, special, or
 These Terms shall be governed by and construed in accordance with the laws of the jurisdiction in which the Bot operator resides, without regard to its conflict of law principles.
 
 ## 11. Contact Information
-For any questions about these Terms, please contact us at [your contact information].
+For any questions about these Terms, please contact us at shreider.pv@gmail.com.
 
 ---
 
@@ -65,9 +63,7 @@ Jako użytkownik Bota zgadzasz się:
 ## 4. Zabronione Działania
 Zgadzasz się nie angażować w następujące działania:
 - Rozpowszechnianie treści szkodliwych, obraźliwych, obscenicznych, zniesławiających lub w inny sposób nieodpowiednich.
-- Podszywanie się pod jakąkolwiek osobę lub podmiot lub fałszywe przedstawianie swojej afiliacji z jakąkolwiek osobą lub podmiotem.
-- Korzystanie z Bota do spamu, przesyłania niechcianej poczty lub innych niezamówionych komunikatów.
-- Próba uzyskania nieautoryzowanego dostępu do jakiejkolwiek części Bota lub jego powiązanych systemów lub sieci.
+- Korzystanie z Bota do spamu.
 
 ## 5. Prywatność i Zbieranie Danych
 Bot może zbierać i przechowywać pewne informacje o użytkownikach, aby świadczyć usługi. Może to obejmować, ale nie ogranicza się do, identyfikatorów użytkowników, wiadomości i innych interakcji z Botem. Korzystając z Bota, wyrażasz zgodę na zbieranie i wykorzystywanie tych informacji zgodnie z naszą Polityką Prywatności.
@@ -88,7 +84,7 @@ W żadnym wypadku nie będziemy odpowiedzialni za jakiekolwiek bezpośrednie, po
 Te Warunki będą regulowane i interpretowane zgodnie z prawem jurysdykcji, w której operator Bota ma siedzibę, bez względu na zasady kolizji prawa.
 
 ## 11. Informacje Kontaktowe
-W przypadku jakichkolwiek pytań dotyczących tych Warunków, prosimy o kontakt pod adresem [twoje dane kontaktowe].
+W przypadku jakichkolwiek pytań dotyczących tych Warunków, prosimy o kontakt pod adresem shreider.pv@gmail.com.
 
 ---
 
