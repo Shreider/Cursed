@@ -1,7 +1,7 @@
 # Cursed - Discord Bot Terms of Service
 
 ## 1. Acceptance of Terms
-By using Cursed Discord Bot ("the Bot"), you agree to comply with and be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the Bot.
+By using Cursed Discord Bot, you agree to comply with and be bound by these Terms of Service. If you do not agree to these Terms, please do not use the Bot.
 
 ## 2. Description of Service
 The Bot provides users with various features and functionalities within the Discord platform. The Bot is provided "as is" and "as available" without warranties of any kind.
@@ -50,7 +50,7 @@ This document serves as the Terms of Service for Cursed Discord Bot. By using th
 # Cursed - Discord Bot Warunki Użytkowania
 
 ## 1. Akceptacja Warunków
-Korzystając z Cursed Discord Bot ("Bot"), zgadzasz się przestrzegać i być związanym tymi Warunkami Użytkowania ("Warunki"). Jeśli nie zgadzasz się z tymi Warunkami, prosimy nie korzystać z Bota.
+Korzystając z Cursed Discord Bot, zgadzasz się przestrzegać i być związanym tymi Warunkami Użytkowania. Jeśli nie zgadzasz się z tymi Warunkami, prosimy nie korzystać z Bota.
 
 ## 2. Opis Usługi
 Bot zapewnia użytkownikom różne funkcje i możliwości w ramach platformy Discord. Bot jest dostarczany "tak jak jest" i "w miarę dostępności" bez jakichkolwiek gwarancji.
