@@ -31,6 +31,7 @@ If you have any questions about this Privacy Policy, please contact us via Disco
 This Privacy Policy governs the privacy practices for Cursed Discord. By using the Bot, you agree to the terms and practices outlined in this policy.
 
 ---
+---
 
 # Cursed - Discord Bot Polityka Prywatności
 
