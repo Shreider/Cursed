@@ -37,7 +37,7 @@ In no event shall we be liable for any direct, indirect, incidental, special, or
 These Terms shall be governed by and construed in accordance with the laws of the jurisdiction in which the Bot operator resides, without regard to its conflict of law principles.
 
 ## 11. Contact Information
-For any questions about these Terms, please contact us at shreider.pv@gmail.com.
+For any questions about these Terms, please contact us via Discord at shreider_404.
 
 ---
 
@@ -48,7 +48,7 @@ This document serves as the Terms of Service for Cursed Discord Bot. By using th
 # Cursed - Discord Bot Warunki Użytkowania
 
 ## 1. Akceptacja Warunków
-Korzystając z Cursed Discord Bot, zgadzasz się przestrzegać i być związanym tymi Warunkami Użytkowania. Jeśli nie zgadzasz się z tymi Warunkami, prosimy nie korzystać z Bota.
+Korzystając z Cursed Discord Bot, zgadzasz się przestrzegać i być związany tymi Warunkami Użytkowania. Jeśli nie zgadzasz się z tymi Warunkami, prosimy nie korzystać z Bota.
 
 ## 2. Opis Usługi
 Bot zapewnia użytkownikom różne funkcje i możliwości w ramach platformy Discord. Bot jest dostarczany "tak jak jest" i "w miarę dostępności" bez jakichkolwiek gwarancji.
@@ -84,8 +84,8 @@ W żadnym wypadku nie będziemy odpowiedzialni za jakiekolwiek bezpośrednie, po
 Te Warunki będą regulowane i interpretowane zgodnie z prawem jurysdykcji, w której operator Bota ma siedzibę, bez względu na zasady kolizji prawa.
 
 ## 11. Informacje Kontaktowe
-W przypadku jakichkolwiek pytań dotyczących tych Warunków, prosimy o kontakt pod adresem shreider.pv@gmail.com.
+W przypadku jakichkolwiek pytań dotyczących tych Warunków, prosimy o kontakt poprzez Discorda pod adresem shreider_404.
 
 ---
 
-Ten dokument stanowi Warunki Użytkowania dla Cursed Discord Bot. Korzystając z Bota, zgadzasz się przestrzegać i być związanym tymi warunkami. Jeśli masz jakiekolwiek pytania lub wątpliwości, prosimy o kontakt z nami.
+Ten dokument stanowi Warunki Użytkowania dla Cursed Discord Bot. Korzystając z Bota, zgadzasz się przestrzegać i być związany tymi warunkami. Jeśli masz jakiekolwiek pytania lub wątpliwości, prosimy o kontakt z nami.
